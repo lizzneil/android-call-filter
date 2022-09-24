@@ -15,6 +15,12 @@
     <string name="context_menu_delete_rule">Delete rule</string>
     <string name="filter_action_icon">Filter action icon</string>
     <string name="permission_preferences_file">permissions</string>
+    <string name="user_agreement_preferences_file">user_agreement</string>
+
+    <string name="user_agreement_tips">拦截应用需要您授权</string>
+    <string name="agree">agree</string>
+    <string name="reject">reject</string>
+
     <string name="permission_request_denied">Permission request denied</string>
     <string name="permission_screening_denied">Call screening request denied</string>
     <string name="permission_request_blocked">Permission request blocked</string>
